@@ -1,0 +1,29 @@
+html{
+
+   height:100%;
+
+}
+
+body{
+
+    height:100%;
+    background-attachment: fixed;
+    background-color:#1E9F75;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.header{
+
+    font-family:Lobster;
+    color:black;
+    position:relative;
+    top:5%;
+}
+
+.random-button{
+
+    position:relative;
+    top:10%;
+
+}
