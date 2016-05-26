@@ -8,22 +8,52 @@ body{
 
     height:100%;
     background-attachment: fixed;
-    background-color:#1E9F75;
+    background-color:#162234;
     background-position: center;
     background-repeat: no-repeat;
+}
+
+a{
+
+   text-decoration: none;
+
 }
 
 .header{
 
     font-family:Lobster;
-    color:black;
+    color:#FFA500;
     position:relative;
     top:5%;
 }
 
-.random-button{
+.search-space{
 
     position:relative;
-    top:10%;
+    top:15%;
+
+}
+
+#search{
+
+   border-radius:10px;
+   border:5px solid orange;
+   background-color:#162234;
+   color:white;
+
+}
+
+#random-link{
+
+   margin-left: 10px;
+
+}
+
+#random{
+
+   border-radius: 10px;
+   border:5px solid orange;
+   background-color: #162234;
+   color:white;
 
 }
