@@ -16,3 +16,7 @@ A web app to enter a search term and get related wikipedia entry. Also a button 
   - Ways to return values from a function calling Ajax.
   - Callback functions in JavaScript.
   - Using keypress in JQuery to trigger events according to key pressed.
+
+## Features to add
+
+  - A typeahead autocomplete in search bar.
